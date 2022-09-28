@@ -2,5 +2,5 @@
 - :bust_in_silhouette: My Pronouns (She/Her)
 - :green_book: I am a Per Scholas W.I.S.E. (Women in Software Engineering) Student
 - 🌱 I’m currently learning ... JavaScript, MERN, OOP, DOM and more
-- 💞️ I’m looking to collaborate on ... JavaScript
+- 💞️ I’m looking to collaborate on ... JavaScript projects
 - 📫 I'm happy to connect! [LinkedIn](https://www.linkedin.com/in/juleberry)
