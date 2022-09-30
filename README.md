@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning ... JavaScript, MERN, OOP, DOM and more
 - 💞️ I’m looking to collaborate on ... JavaScript projects
 - 📫 I'm happy to connect! [LinkedIn](https://www.linkedin.com/in/juleberry)
+- :sunglasses: Open to Frontend Software Development roles :raising_hand:
