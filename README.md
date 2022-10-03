@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juleberry :relaxed:
-- :bust_in_silhouette: My Pronouns (She/Her)
+- :woman: My Pronouns (She/Her)
 - :green_book: I am a Per Scholas W.I.S.E. (Women in Software Engineering) Student
 - 🌱 I’m currently learning ... JavaScript, MERN, OOP, DOM and more
-- 💞️ I’m looking to collaborate on ... JavaScript projects
+- 💞️ I’m looking to collaborate on ... Frontend JavaScript projects
 - 📫 I'm happy to connect! [LinkedIn](https://www.linkedin.com/in/juleberry)
 - :sunglasses: Open to Frontend Software Development roles :raising_hand:
