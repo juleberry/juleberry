@@ -2,6 +2,6 @@
 - :woman: My Pronouns (She/Her)
 - :green_book: I am a recent Per Scholas Software Engineering student
 - 🌱 I’m currently learning ... JavaScript, MERN, OOP, DOM and more
-- 💞️ I’m looking to collaborate on ... Frontend JavaScript projects
+- 💞️ I’m looking to collaborate on ... JavaScript and React projects
 - 📫 I'm happy to connect! [LinkedIn](https://www.linkedin.com/in/juleberry)
 - :sunglasses: Open to Frontend Software Engineering roles :raising_hand:
